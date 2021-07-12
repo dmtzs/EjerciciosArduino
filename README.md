@@ -7,6 +7,6 @@ Is the one that the arduino read characters from a numeric keyboard that is usua
 Diagram coming soon
 
 ## rfid
-Coming soon the explanation at the stream. Try to understand before the stream if you can ;)
+Using the library Adafruit_PN532 for read rfid tags with PN532 module
 <br>
 Diagram coming soon
